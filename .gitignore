@@ -1,0 +1,34 @@
+# Virtual env
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# models
+*.pkl
+movie_data.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env config
+.env
+.python-version
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Tooling
+uv.lock
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
